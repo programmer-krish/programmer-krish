@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi , It's Krishna 👋
 
-<!--
-**programmer-krish/programmer-krish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a software engineering intern @Mitra Innovation.
+- 🌱 I’m currently learning Spring boot & Spring MVC
+- 👯 I’m looking to collaborate on  freelance projects.
+- 🤔 I’m looking for help with Full stack development of JS (REACT/NODE).
+- 💬 Ask me about Javacript and tech related sttuffs
+- 📫 How to reach me: 
+      Linkedin - https://www.linkedin.com/in/krishnamohan-ramachandran-8982ba148/
+      Twitter - @rkrishnamohan96
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Spend 2 hrs of listening songs , learned new tech articles and cricket freak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
