@@ -6,9 +6,7 @@
 - 👯 I’m looking to collaborate on  freelance projects.
 - 🤔 I’m looking for help with Full stack development of JS (REACT/NODE).
 - 💬 Ask me about Javacript and tech related sttuffs
-- 📫 How to reach me: 
-      Linkedin - https://www.linkedin.com/in/krishnamohan-ramachandran-8982ba148/
-      Twitter - @rkrishnamohan96
+- 📫 How to reach me: Twitter - @rkrishnamohan96
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Spend 2 hrs of listening songs , learned new tech articles and cricket freak.
+- ⚡ Fun fact: Spend 2 hrs of listening songs , learn new tech articles and cricket freak.
 
