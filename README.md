@@ -1,7 +1,7 @@
 ### Hi , It's Krishna 👋
 
 
-- 🔭 I’m currently working as a software engineering intern @Mitra Innovation.
+- 🔭 I’m currently working as a  Full Stack Engineer at Eat Me Global.
 - 🌱 I’m currently learning Spring boot & Spring MVC
 - 👯 I’m looking to collaborate on  freelance projects.
 - 🤔 I’m looking for help with Full stack development of JAVA (REACT/Spring).
