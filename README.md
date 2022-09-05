@@ -2,7 +2,7 @@
 
 ### Hi , It's Krishna 👋
 
-- 💬 Software Enigneer @SwivelTech
+- 💬 Software Engineer @SwivelTech
 - 🔭 Worked  as a  Full Stack Engineer at Eat Me Global.
 - 🌱 I’m currently learning Spring boot & Spring MVC
 - 👯 I’m looking to collaborate on  freelance projects.
