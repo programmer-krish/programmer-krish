@@ -2,6 +2,7 @@
 
 ### Hi, It's Krishna 👋
 
+- 💬 Worked  as a Senior Software Engineer @ItelaSoft
 - 💬 Worked  as a Software Engineer @SwivelTech
 - 🔭 Worked  as a  Full Stack Engineer at Eat Me Global.
 - 🌱 I’m currently learning Spring Boot & Spring MVC
